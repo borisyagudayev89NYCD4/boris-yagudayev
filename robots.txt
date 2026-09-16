@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://borisyagudayev89nycd4.github.io/boris-yagudayev/sitemap.xml
