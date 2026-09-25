@@ -69,3 +69,18 @@
 
 /* Center campaign identity within header */
 .concept-brand{text-align:center;align-items:center;justify-self:center;width:100%}
+
+/* Direct-on-flag header treatment: remove blue overlay */
+.concept-nav{background:transparent;box-shadow:none}
+.concept-brand>a,.concept-brand>a span,.concept-brand em{
+  color:#fff;
+  text-shadow:-1px -1px 0 #111,1px -1px 0 #111,-1px 1px 0 #111,1px 1px 0 #111,0 2px 4px rgba(0,0,0,.9)
+}
+.party-dem{color:#8fc7ff;text-shadow:-1px -1px 0 #071a35,1px -1px 0 #071a35,-1px 1px 0 #071a35,1px 1px 0 #071a35,0 2px 3px rgba(0,0,0,.8)}
+.party-separator{color:#fff;text-shadow:0 1px 3px #000}
+.party-com{color:#ff6969;text-shadow:-1px -1px 0 #4d0000,1px -1px 0 #4d0000,-1px 1px 0 #4d0000,1px 1px 0 #4d0000,0 2px 3px rgba(0,0,0,.8)}
+.concept-header nav a{
+  color:#fff;
+  font-weight:800;
+  text-shadow:-1px -1px 0 #111,1px -1px 0 #111,-1px 1px 0 #111,1px 1px 0 #111,0 2px 3px rgba(0,0,0,.85)
+}
