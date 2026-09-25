@@ -1,6 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 190" role="img" aria-labelledby="title desc">
-<title id="title">Long Island with a red star</title><desc id="desc">A simplified white silhouette of Long Island with a red star marking the approximate southwestern Nassau County area.</desc>
-<path fill="#fff" stroke="#111" stroke-width="3" stroke-linejoin="round" d="M18 128c21-9 38-18 58-28 22-11 47-19 74-23 31-5 57-8 86-12 34-5 70-10 105-17 43-8 81-17 116-29 20-7 38-10 55-8 10 1 17 5 18 10 1 6-9 10-21 13-21 6-40 12-57 22 18-1 35 1 50 6 11 4 17 9 15 14-3 6-15 8-29 7-25-2-47 1-68 8-30 10-61 20-94 27-42 10-84 15-126 20-34 4-69 7-102 14-24 5-45 14-66 18-18 4-31 1-37-6-6-7 1-15 23-26z"/>
-<path fill="#fff" stroke="#111" stroke-width="3" stroke-linejoin="round" d="M435 62c19-13 39-24 59-30 17-5 31-5 39 0 6 4 4 9-5 13-14 6-28 11-41 18-17 9-31 19-45 29z"/>
-<polygon fill="#e21b2d" stroke="#fff" stroke-width="2" points="137,94 144,112 164,112 148,124 154,143 137,132 120,143 126,124 110,112 130,112"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 798 318" role="img" aria-labelledby="title desc">
+<title id="title">Long Island with red star</title><desc id="desc">A recognizable white silhouette of Long Island with a red star marking the approximate southwestern Nassau County area.</desc>
+<g fill="#fff" stroke="#101010" stroke-width="3.5" stroke-linejoin="round">
+<!-- stylized from the recognizable geographic outline: Brooklyn/Queens west, broad Nassau/Suffolk body, North and South Forks east -->
+<path d="M20 214 L35 201 53 190 74 178 98 166 124 157 151 150 180 145 210 141 242 137 276 132 310 126 345 119 380 111 416 101 451 91 484 80 514 68 542 55 567 42 590 30 611 20 627 17 637 22 634 31 621 41 605 49 592 58 585 69 594 77 610 77 626 69 642 55 656 40 669 29 681 25 690 29 690 38 682 48 673 58 670 69 676 77 688 77 703 69 718 58 733 49 747 47 758 52 759 61 749 69 734 75 718 80 705 87 697 96 699 104 711 108 727 106 745 100 763 96 778 98 783 105 777 113 762 119 743 123 724 126 706 131 687 139 668 148 648 158 627 168 604 177 580 185 554 192 526 198 496 203 464 208 431 213 397 219 362 225 327 231 292 236 257 241 223 245 191 249 161 254 134 260 111 268 90 276 70 279 53 275 42 267 38 258 44 248 58 240 73 234 83 226 77 218 62 217 45 221 31 222 Z"/>
+<!-- barrier-island cues -->
+<path d="M53 278 C102 284 155 281 207 274 C264 267 320 258 377 249 C428 241 480 234 530 224 C485 240 432 251 378 260 C319 270 259 280 202 287 C146 294 95 295 57 289 Z"/>
+</g>
+<!-- approximate NY-4 marker in southwestern Nassau, east of Queens -->
+<polygon fill="#e21b2d" stroke="#fff" stroke-width="3" points="218,177 226,198 249,199 231,213 237,235 218,222 199,235 205,213 187,199 210,198"/>
 </svg>
