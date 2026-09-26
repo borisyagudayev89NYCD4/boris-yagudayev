@@ -1,0 +1,17 @@
+Section,Metric,Value,Units / note
+Model,Version,v3.2,Housing-integrated extension of v3.0
+Supply,Net additional homes,10000000,2030–2040 above no-policy baseline
+Supply,Urban infill / expansion,4000000,homes
+Supply,Suburban development,3500000,homes
+Supply,Planned new communities,2500000,homes
+Price,Central home-price level effect,-0.04,vs no-policy baseline by 2040; scenario assumption
+Price,Recurring housing-service effect,-0.02,vs no-policy baseline by 2040; scenario assumption
+Fiscal,Illustrative net federal cost,307.3,$B over 2030–2040
+Fiscal,2040 base debt/GDP,109.9985,percent
+Fiscal,2040 housing-adjusted debt/GDP,110.637,percent; conservative no-dynamic-feedback case
+Fiscal,Incremental debt/GDP,0.6384,percentage points
+Household,$75K–$125K v3.0 effective resources,99338,real 2026 dollars
+Household,$75K–$125K revised effective resources,98378,real 2026 dollars
+Buyer,v3.0 comfortable-home reference,314112,real 2026 dollars
+Buyer,Equivalent price under -4% scenario,301548,real 2026 dollars
+Buyer,Illustrative purchase-price difference,12564,real 2026 dollars
