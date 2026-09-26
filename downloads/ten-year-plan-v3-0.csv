@@ -1,0 +1,28 @@
+Section,Metric,Value,Units / note
+Model,Version,3.0,Current 2030-2040 scenario
+Model,Status,Illustrative,Not an official government forecast or score
+Fiscal,2040 debt/GDP,110.0,percent
+Fiscal,2040 GDP,57.601,nominal trillions
+Fiscal,2040 debt stock,63.360,nominal trillions
+Financing,AGI surtax above $250K,7.5,percent
+Financing,Additional AGI surtax above $1M,10.0,percent
+Financing,Annual wealth tax above $50M,5.0,percent
+Financing,Annual wealth tax above $250M,10.0,percent
+Financing,AI-related levy,7.5,percent
+Financing,Capital gains/dividend rate increase,4.0,percentage points
+Financing,Corporate income-tax rate,29.0,percent
+Financing,Estate/gift exemption per person,7.5,millions
+Financing,Additional IRS enforcement,7.0,billions per year
+
+Year,GDP ($T),Debt/GDP (%)
+2030,37.714,106.62
+2031,39.288,107.76
+2032,40.947,108.58
+2033,42.707,109.43
+2034,44.559,109.88
+2035,46.513,109.78
+2036,48.569,109.95
+2037,50.712,110.00
+2038,52.932,110.04
+2039,55.225,110.05
+2040,57.601,110.00
