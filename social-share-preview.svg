@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><clipPath id="r"><rect width="1200" height="630" rx="24"/></clipPath><linearGradient id="shade" x1="0" x2="1"><stop offset="0" stop-color="#e4f4e1" stop-opacity=".28"/><stop offset="1" stop-color="#fff5dc" stop-opacity=".14"/></linearGradient></defs>
+<g clip-path="url(#r)">
+<image href="https://mcdn.wallpapersafari.com/medium/26/11/lunep7.jpg" width="1200" height="630" preserveAspectRatio="xMidYMid slice"/>
+<rect width="1200" height="630" fill="url(#shade)"/>
+<rect x="0" y="0" width="1200" height="112" fill="#e4f4e1" fill-opacity=".94"/>
+<text x="54" y="48" font-family="Georgia,serif" font-size="37" font-weight="800" fill="#102c24">Boris For Congress!</text>
+<text x="54" y="77" font-family="Georgia,serif" font-size="19" font-weight="700" fill="#102c24">New York’s Fourth Congressional District · Long Island</text>
+<text x="54" y="100" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#102c24">A More Fair and Democratic America</text>
+<text x="600" y="232" text-anchor="middle" font-family="Georgia,serif" font-size="68" font-weight="800" fill="#062c25" stroke="#ffffff" stroke-opacity=".28" stroke-width="2">A Brighter Future</text>
+<text x="600" y="300" text-anchor="middle" font-family="Georgia,serif" font-size="68" font-weight="800" fill="#062c25" stroke="#ffffff" stroke-opacity=".28" stroke-width="2">Is Possible</text>
+<image href="policy-wheel-center.svg" x="70" y="286" width="300" height="289"/>
+<rect x="395" y="382" width="750" height="150" rx="22" fill="#c91e2a" fill-opacity=".94"/>
+<text x="770" y="445" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="53" font-weight="900" fill="#ffffff">LONG ISLAND —</text>
+<text x="770" y="505" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="900" fill="#ffffff">WE’RE NEXT</text>
+</g></svg>
