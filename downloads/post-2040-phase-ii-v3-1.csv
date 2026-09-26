@@ -1,0 +1,24 @@
+Section,Metric,Value,Units / note
+Model,Version,3.1 Phase II,2041-2060 stabilization extension
+Model,Status,Illustrative,Not an official government forecast or score
+Fiscal,2040 starting debt/GDP,110.0,percent
+Fiscal,2060 debt/GDP without Phase II,130.2,percent
+Fiscal,2060 Phase II debt/GDP,110.0,percent
+Fiscal,2060 primary adjustment/GDP,1.30,percent
+Fiscal,2060 interest savings,0.848,nominal trillions
+Fiscal,2060 debt reduction vs continuation,23.569,nominal trillions
+
+Year,Continuation debt/GDP (%),Phase II debt/GDP (%),Phase II deficit/GDP (%),Primary adjustment/GDP (%),Interest savings ($T)
+2040,110.0,110.0,4.49,0.00,0.00
+2045,113.1,110.0,3.92,0.73,0.06
+2050,117.7,110.0,3.79,0.99,0.21
+2055,123.5,110.0,3.74,1.19,0.47
+2060,130.2,110.0,3.75,1.30,0.85
+
+2060 policy channel,Annual amount ($B)
+Healthcare cost-growth reform,425
+Social Security financing,380
+AI/capital stabilizer,304
+High-income tax-base reform,228
+Efficiency/procurement,106
+Debt-corridor reserve,76
