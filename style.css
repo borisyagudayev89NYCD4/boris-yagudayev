@@ -92,3 +92,6 @@
 @media(max-width:1100px){.long-island-star{width:210px;max-width:30vw}.header-mark{gap:10px}}
 @media(max-width:900px){.header-mark{justify-self:stretch;align-self:auto;width:100%;justify-content:space-between;align-items:flex-end}.long-island-star{width:240px;max-width:48vw}}
 @media(max-width:520px){.header-mark{width:100%;gap:8px}.long-island-star{width:210px;max-width:58vw}.header-mark .people-badge{font-size:.82rem}}
+
+/* Ten-Year Plan banner artwork */
+.plan-hero{padding:42px 0 58px}.ten-year-plan-banner{display:block;width:100%;height:auto;max-width:1080px;margin:0 auto 32px;border-radius:14px;box-shadow:0 12px 30px rgba(30,37,43,.14)}.plan-hero-copy{margin-left:auto;margin-right:auto}.home-plan-banner-link{display:block;margin:0 auto 30px;max-width:1040px}.home-plan-banner{display:block;width:100%;height:auto;border-radius:12px;box-shadow:0 10px 26px rgba(16,44,36,.13)}@media(max-width:760px){.plan-hero{padding:22px 0 42px}.ten-year-plan-banner{border-radius:8px;margin-bottom:24px}.home-plan-banner-link{margin-bottom:22px}.home-plan-banner{border-radius:8px}}
